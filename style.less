@@ -1,0 +1,105 @@
+@fontsize: 12px;
+
+body {
+    font-size: @fontsize;
+    font-family: 'Andika', sans-serif;
+    background: url('images/noise.jpg');
+    line-height: 20px;
+    text-align: justify;
+}
+
+header, section, footer {
+    width: 800px;
+}
+
+header {
+    margin: 20px auto 20px;
+    hgroup {
+	font-weight: 900;
+	margin: 0 0 16px 0;
+	font-size: @fontsize + 39;
+	border-bottom: 1px solid;
+	line-height: 50px;
+    }
+    ul {
+	font-size: 15px;
+	list-style: none outside none;
+	padding: 0;
+    }
+    img {
+	float: right;
+	box-shadow: 2px 2px 10px #aaa;
+	width: 200px;
+	padding: 5px;
+	background: white;
+	border: 1px solid #AAA;
+	margin: -14px 15px 0 0;
+    }
+    p {
+	font-family: 'Arapey', serif;
+	font-size: @fontsize + 4;
+	color: #444;
+	font-style: italic;
+	margin: 25px 0 0 0;
+	width: 550px;
+    }
+}
+
+section {
+    margin: 0 auto;
+    padding: 13px 0;
+    hgroup {
+	margin: 0 0 12px 0;
+	font-weight: bold;
+	font-size: @fontsize + 9;
+	border-bottom: 1px solid #999;
+	font-family: 'Mate SC', serif;
+    }
+    h1 {
+	font-size: @fontsize + 3;
+	position: relative;
+	margin: 15px 0 0 0;
+	span {
+	    position: absolute;
+	    bottom: 0;
+	    right: 0;
+	    font-style: italic;
+	    font-family: 'Arapey', serif;
+	    font-size: @fontsize + 3;
+	    color: #999;
+	    font-weight: normal;
+	}
+    }
+    ul {
+	&.description {
+	    list-style: none;
+	    padding: 0 0 0 0px;
+	}
+	margin: 0;
+	padding: 0 0 0 19px;
+    }
+    p {
+	margin: 15px 0 0 0;
+    }
+}
+
+footer {
+    border-top: 1px solid #dddddd;
+    margin: 100px auto 0;
+    text-align: center;
+    font-family: 'Arapey', serif;
+    font-size: @fontsize - 2;
+    color: #999;
+    font-style: italic;
+}
+
+a {
+    color: #555;
+    &:hover {
+	color: black;
+    }
+}
+
+.print-only {
+    display:none;
+}

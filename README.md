@@ -2,6 +2,10 @@
 
 I'm looking for a job and I have need for clean cv. Created cv template is mainly my cv template. Work inspired by [OnePageResume](http://css-tricks.com/examples/OnePageResume/) by Chris Coyier. So my decision was to create another CV about fictional character from literature. Chris's template was about Cthulhu my is about Witcher. Text presented in template is taken from Wikipedia.
 
+# How it looks
+
+Check it here [http://xando.github.com/TheWitcherCV/](http://xando.github.com/TheWitcherCV/)
+
 # Features
 
 *  HTML5 tags Instead of using a lot of divs span and others use HTML5 tags.  

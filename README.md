@@ -1,6 +1,8 @@
 # Motivation
 
-I'm looking for a job and I have need for clean cv. Created cv template is mainly my cv template. Work inspired by [OnePageResume](http://css-tricks.com/examples/OnePageResume/) by Chris Coyier. So my decision was to create another CV about fictional character from literature. Chris's template was about Cthulhu my is about Witcher. Text presented in template is taken from Wikipedia.
+I'm looking for a job and I have need for clean cv. Created cv template is mainly my cv template. Work inspired by [OnePageResume](http://css-tricks.com/examples/OnePageResume/) by Chris Coyier. So my decision was to create another CV about fictional character from literature. Chris's template was about Cthulhu my is about Witcher. Text presented in template is taken from Wikipedia.  
+
+This template contains Amazon affiliate links. You've been warned.
 
 # How it looks
 

@@ -4,7 +4,9 @@ I'm looking for a job and I have need for clean cv. Created cv template is mainl
 
 # How it looks
 
-Check it here [http://xando.github.com/TheWitcherCV/](http://xando.github.com/TheWitcherCV/)
+[Online version](http://xando.github.com/TheWitcherCV/)  
+[Printed version](https://github.com/xando/TheWitcherCV/blob/master/TheWitcherCV.pdf?raw=true)
+
 
 # Features
 
